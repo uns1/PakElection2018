@@ -5,7 +5,14 @@
 
 - Data for Pakistan's 2018 Elections for the National Assembly. *(Provincial Assembly data coming soon)*  
 - Compiled/Scraped on 7/27/18 from the Election Commission of Pakistan's website. 
-- Data for 266/272 NA Seats. Missing seats due to postponed elections or unavailability of data on the ECP website as of 7/27/18. 
+- Data for 266/272 NA Seats. Missing seats due to postponed elections or unavailability of data on the ECP website as of 7/27/18.
+
+| File | Description |
+|--------|-------------|
+| Election_2018_NA_Results_Raw.csv | Contain's all information found on the individual constituency result for National Assembly seats. The candidate, party & number of votes is in a list of dictionaries. If you're just looking for that information, use Election_2018_NA_VotingOnly.csv  |
+| Election_2018_NA_VotingOnly.csv |  Candidate names, party, and votes for each constituency. Essentially, this is the votingResults column of the raw file broken down. |
+| Election_2018_NA_winnerResults.csv | The winning candidates, their parties and votes for NA seats. Provided for ease of use if you just want to look at the winners |
+| Election_2018_NA_runnerupResults.csv | The runner ups, their parties and votes for NA seats. Provided for ease of use if you just want to look at those that came second |
 
 ### 1. Election_2018_NA_Results_Raw.csv
 Contain's all information found on the individual constituency result for National Assembly seats.
