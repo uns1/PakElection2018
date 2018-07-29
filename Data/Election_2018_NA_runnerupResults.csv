@@ -67,7 +67,7 @@ Syed Yousaf Raza Gilani,Pakistan Peoples Party Parliamentarians,74443,NA-158,Mul
 Muhammad Zulqarnain Bukhari,Pakistan Muslim League (N),99374,NA-159,Multan-VI,3232.0
 Mohabbat Khan,Pakistan Muslim League (N),54879,NA-16,Abbottabad-II,30324.0
 MUHAMMAD AKHTAR KHAN KANJU,Pakistan Tehreek-e-Insaf,115321,NA-160,Lodhran-I,10419.0
-KHAN MUHAMMAD SIDDIQUE KHAN BALOOCH,Pakistan Muslim League (N),116093,NA-161,Lodhran-II,5207.0
+KHAN MUHAMMAD SIDDIQUE KHAN BALOOCH,Pakistan Muslim League (N),116093,NA-161,Lodhran-II,5716.0
 Ayesha Nazir,Independent,64766,NA-162,Vehari-I,17190.0
 Muhammad Ishaq Khan Khakwani,Pakistan Tehreek-e-Insaf,56873,NA-163,Vehari-II,13452.0
 Begum Tehmina Doultana,Pakistan Muslim League (N),68198,NA-164,Vehari-III,13886.0
@@ -129,7 +129,7 @@ Sardar Sher Muhammad Rind Baloch,Grand Democratic Alliance,54344,NA-213,Shaheed 
 Syed Zain Ul Abdin,Sindh United Party,54676,NA-214,Shaheed Benazirabad-II,56226.0
 HAJI KHUDA BAKSH,Grand Democratic Alliance,77227,NA-215,Sanghar-I,585.0
 Kishin Chand Parwani,Grand Democratic Alliance,70436,NA-216,Sanghar-II,10316.0
-Mehar Ali Alias Mahi Khan,Grand Democratic Alliance,43757,NA-217,Sanghar-III,58604.0
+Mehar Ali Alias Mahi Khan,Grand Democratic Alliance,43760,NA-217,Sanghar-III,59461.0
 Pir Hassan Ali Shah,Pakistan Peoples Party Parliamentarians,67552,NA-218,Mirpurkhas-I,8243.0
 Arbab Ghulam Rahim,Grand Democratic Alliance,51145,NA-219,Mirpurkhas-II,54678.0
 Muhammad Qasam,Muttahida Majlis-e-Amal Pakistan,56318,NA-22,Mardan-III,2259.0
@@ -175,17 +175,20 @@ MEHMOOD BAQI MOULVI,Pakistan Tehreek-e-Insaf,50352,NA-255,Karachi Central-III,94
 Amir Wali uddin Chishti,Muttahida Qaumi Movement Pakistan,45575,NA-256,Karachi Central-IV,44275.0
 Allah Noor,Pashtoonkhwa Milli Awami Party,22446,NA-257,Killa Saifullah-cum-Zhob-cum-Sherani,21405.0
 Amir Zaman,Muttahida Majlis-e-Amal Pakistan,38457,NA-258,Loralai-cum-Musa Khail-cum-Ziarat-cum-Dukki-cum-Harnai,4481.0
+Mir Tariq Mehmood Kethran,Independent,21213,NA-259,Dera Bugti-cum-Kohlu-cum-Barkhan-cum-Sibi-cum-Lehri,1574.0
 Jamal Khan Khattak,Awami National Party,47132,NA-26,Nowshera-II,43124.0
 Sardar Yar Muhammad Rind,Pakistan Tehreek-e-Insaf,40188,NA-260,Nasirabad-cum-Kachhi-cum-Jhal Magsi,13142.0
 Mir Changez Khan Jamali,Pakistan Peoples Party Parliamentarians,27563,NA-261,Jafarabad-cum-Sohbatpur,17659.0
 Muhammad Essa Khan,Pashtoonkhwa Milli Awami Party,28344,NA-262,Pishin,21914.0
+Asghar Khan,Awami National Party,21417,NA-263,Killa Abdullah,16554.0
 Malik Abdul Wali Kakar,Balochistan National Party,10071,NA-264,Quetta-I,4816.0
 Mir Lashkari Raisani,Balochistan National Party,20389,NA-265,Quetta-II,5584.0
 Hafiz hussain ahmed,Muttahida Majlis-e-Amal Pakistan,11057,NA-266,Quetta-III,8977.0
 Manzoor Ahmed Baloch,Balochistan National Party,25738,NA-267,Mastung-cum-Shaheed Sikandarabad-cum-Kalat,907.0
-Muhammad Hashim,Balochistan National Party,1137,NA-268,Chagai-cum-Nushki-cum-Kharan,73.0
+Muhammad Usman Badini,Muttahida Majlis-e-Amal Pakistan,12272,NA-268,Chagai-cum-Nushki-cum-Kharan,2163.0
 Mohammad Khalid Bizenjo,Balochistan Awami Party,19720,NA-269,Khuzdar,33155.0
 Haji Ghulam Ali,Muttahida Majlis-e-Amal Pakistan,39310,NA-27,Peshawar-I,31848.0
+Mohammad Hanif,Balochistan National Party (Awami),16040,NA-270,Panjgur-cum-Washuk-cum-Awaran,2528.0
 Syed Ahsan Shah,Balochistan National Party (Awami),20583,NA-271,Kech,12283.0
 Jam Kamal Khan,Balochistan Awami Party,63275,NA-272,Lasbela-cum-Gwadar,5529.0
 Sabir Hussain Awan,Muttahida Majlis-e-Amal Pakistan,27292,NA-28,Peshawar-II,47122.0
@@ -193,13 +196,14 @@ Naeem Jan,Muttahida Majlis-e-Amal Pakistan,29357,NA-29,Peshawar-III,20405.0
 Mian Muhammad Shahbaz Sharif,Pakistan Muslim League (N),22756,NA-3,Swat-II,45406.0
 Arbab Najeeb Ullah Khan,Muttahida Majlis-e-Amal Pakistan,18111,NA-30,Peshawar-IV,55670.0
 Haji Ghulam Ahmad Bilour,Awami National Party,42476,NA-31,Peshawar-V,45419.0
+Gohar Muhammad Khan Bangash,Muttahida Majlis-e-Amal Pakistan,47412,NA-32,Kohat,34836.0
 Atiq Ur Rehman,Muttahida Majlis-e-Amal Pakistan,27968,NA-33,Hangu,851.0
 Mir Zakim Khan,Muttahida Majlis-e-Amal Pakistan,28534,NA-34,Karak,48647.0
 Akram Khan Durrani,Muttahida Majlis-e-Amal Pakistan,106820,NA-35,Bannu,7002.0
 Ishfaq Ahmad Khan,Pakistan Tehreek-e-Insaf,81849,NA-36,Lakki Marwat,9216.0
 Habibullah Khan,Pakistan Tehreek-e-Insaf,16599,NA-37,Tank,11905.0
 Fazl ur Rehman,Muttahida Majlis-e-Amal Pakistan,45457,NA-38,Dera Ismail Khan-I,34779.0
-Fazl ur Rehman,Muttahida Majlis-e-Amal Pakistan,52031,NA-39,Dera Ismail Khan-II,27303.0
+Fazl ur Rehman,Muttahida Majlis-e-Amal Pakistan,4076,NA-39,Dera Ismail Khan-II,1435.0
 Muhammad Salim Khan,Awami National Party,30975,NA-4,Swat-Ill,40625.0
 Sardar Khan,Independent,17850,NA-40,Tribal Area - I,16766.0
 Abdul Majeed,Independent,14792,NA-41,Tribal Area - II,7938.0

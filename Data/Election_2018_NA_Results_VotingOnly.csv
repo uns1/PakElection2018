@@ -146,7 +146,6 @@ Roshan Zaman,Independent,3559,NA-14,Mansehra-cum-Torghar
 Nusrat Anjum,Pak Sarzameen Party,377,NA-15,Abbottabad-I
 Sardar Muhammad Iqbal Khan,Qaumi Watan Party,1789,NA-15,Abbottabad-I
 Sardar Gohar Zaman Khan,Independent,5006,NA-15,Abbottabad-I
-Makhdoom Arif Hussain Kazmi,Tehreek-e-Difa-e-Pakistan,6867,NA-15,Abbottabad-I
 Ayaz Khan Jadoon,Pakistan Rah-e-Haq Party,2307,NA-15,Abbottabad-I
 Muhammad Asghar Shah,Independent,1024,NA-15,Abbottabad-I
 Zulfiqar Javed,Independent,218,NA-15,Abbottabad-I
@@ -155,6 +154,7 @@ Sameen Riaz Abbasi,Pakistan Justice & Democratic Party,819,NA-15,Abbottabad-I
 Murtaza Javed Abbasi,Pakistan Muslim League (N),95340,NA-15,Abbottabad-I
 Sardar Manzoor Mumtaz Abbasi,Pakistan Peoples Party Parliamentarians,1007,NA-15,Abbottabad-I
 Ali Asghar Khan,Pakistan Tehreek-e-Insaf,81845,NA-15,Abbottabad-I
+Makhdoom Arif Hussain Kazmi,Tehreek-e-Labbaik Pakistan,6867,NA-15,Abbottabad-I
 Fazal ur Rehman,Majlis-e-Wahdat-e-Muslimeen Pakistan,7253,NA-15,Abbottabad-I
 Ali Khan Jadoon,Pakistan Tehreek-e-Insaf,85203,NA-16,Abbottabad-II
 Ayaz Khan Jadoon,Pakistan Rah-e-Haq Party,7896,NA-16,Abbottabad-II
@@ -303,6 +303,16 @@ Rooh Ullah,Independent,854,NA-31,Peshawar-V
 Shaukat Ali S o Fazal Muhammad Afzal,Independent,5371,NA-31,Peshawar-V
 Shaukat Ali S o Liaqat Ali,Pakistan Tehreek-e-Insaf,87895,NA-31,Peshawar-V
 Yasmeen,Tehreek-e-Labbaik Pakistan,430,NA-31,Peshawar-V
+Abbas Afridi,Pakistan Muslim League (N),44154,NA-32,Kohat
+Asmat Ullah Khan,Independent,1280,NA-32,Kohat
+Bismillah Khan,Pakistan Peoples Party Parliamentarians,4915,NA-32,Kohat
+Gohar Muhammad Khan Bangash,Muttahida Majlis-e-Amal Pakistan,47412,NA-32,Kohat
+Madiha Faraz,Independent,1797,NA-32,Kohat
+Mufti Ibrar Sultan,Independent,5318,NA-32,Kohat
+Muhammad Fayyaz,Independent,670,NA-32,Kohat
+Najeeb Ullah Durani,Tehreek-e-Labbaik Pakistan,1322,NA-32,Kohat
+Shehryar Afridi,Pakistan Tehreek-e-Insaf,82248,NA-32,Kohat
+Yousaf Afridi,Independent,1542,NA-32,Kohat
 Akhtar Munir Bangash,Independent,140,NA-33,Hangu
 Arif Hussain,Independent,108,NA-33,Hangu
 Atiq Ur Rehman,Muttahida Majlis-e-Amal Pakistan,27968,NA-33,Hangu
@@ -392,21 +402,21 @@ Muhammad Naeem Khan,Independent,358,NA-38,Dera Ismail Khan-I
 Syed Hasnain Mohy Ud Din Gillani,Independent,7904,NA-38,Dera Ismail Khan-I
 Ubaid Ur Rehman,Independent,343,NA-38,Dera Ismail Khan-I
 Waqar Ahmad Khan,Independent,0,NA-38,Dera Ismail Khan-I
-Muhammad Yaqoob Sheikh,Pakistan Tehreek-e-Insaf,79334,NA-39,Dera Ismail Khan-II
-Alhaj Sardar Umar Farooq Khan,Independent,1875,NA-39,Dera Ismail Khan-II
-Asmat Ullah,Independent,1151,NA-39,Dera Ismail Khan-II
-Eithesham Ullah Khan,Independent,180,NA-39,Dera Ismail Khan-II
-Faisal Karim Kundi,Independent,271,NA-39,Dera Ismail Khan-II
-Fazl ur Rehman,Muttahida Majlis-e-Amal Pakistan,52031,NA-39,Dera Ismail Khan-II
-Irfan Ullah Khan,Independent,785,NA-39,Dera Ismail Khan-II
-Muhammad Aftab Inayat,Independent,1235,NA-39,Dera Ismail Khan-II
-Muhammad Akbar Khan,Independent,1164,NA-39,Dera Ismail Khan-II
-Muhammad Amir,Independent,1041,NA-39,Dera Ismail Khan-II
-Muhammad Maqbool,Amun Taraqqi Party,670,NA-39,Dera Ismail Khan-II
-Nurang Khan,Pakistan Peoples Party Parliamentarians,10003,NA-39,Dera Ismail Khan-II
-Obaid Ur Rehman,Independent,788,NA-39,Dera Ismail Khan-II
-Qaizar Khan,Independent,8401,NA-39,Dera Ismail Khan-II
-Waqar Ahmad Khan,Independent,135,NA-39,Dera Ismail Khan-II
+Muhammad Yaqoob Sheikh,Pakistan Tehreek-e-Insaf,5511,NA-39,Dera Ismail Khan-II
+Alhaj Sardar Umar Farooq Khan,Independent,29,NA-39,Dera Ismail Khan-II
+Asmat Ullah,Independent,98,NA-39,Dera Ismail Khan-II
+Eithesham Ullah Khan,Independent,5,NA-39,Dera Ismail Khan-II
+Faisal Karim Kundi,Independent,20,NA-39,Dera Ismail Khan-II
+Fazl ur Rehman,Muttahida Majlis-e-Amal Pakistan,4076,NA-39,Dera Ismail Khan-II
+Irfan Ullah Khan,Independent,20,NA-39,Dera Ismail Khan-II
+Muhammad Aftab Inayat,Independent,105,NA-39,Dera Ismail Khan-II
+Muhammad Akbar Khan,Independent,57,NA-39,Dera Ismail Khan-II
+Muhammad Amir,Independent,12,NA-39,Dera Ismail Khan-II
+Muhammad Maqbool,Amun Taraqqi Party,23,NA-39,Dera Ismail Khan-II
+Nurang Khan,Pakistan Peoples Party Parliamentarians,292,NA-39,Dera Ismail Khan-II
+Obaid Ur Rehman,Independent,32,NA-39,Dera Ismail Khan-II
+Qaizar Khan,Independent,564,NA-39,Dera Ismail Khan-II
+Waqar Ahmad Khan,Independent,98,NA-39,Dera Ismail Khan-II
 Gul Afzal,Awami National Party,14304,NA-40,Tribal Area - I
 Gul Dad khan,Pakistan Tehreek-e-Insaf,34616,NA-40,Tribal Area - I
 Hidayat Ullah,Independent,317,NA-40,Tribal Area - I
@@ -453,6 +463,7 @@ Shah Khalid,Independent,185,NA-42,Tribal Area - III
 Zar Khan,Pakistan Muslim League (N),3367,NA-42,Tribal Area - III
 Alhaj Shah Jee Gul Afridi,Independent,30151,NA-43,Tribal Area - IV
 Zar Noor Afridi,Independent,270,NA-43,Tribal Area - IV
+Noor Ul Haq AlQadri,Pakistan Tehreek-e-Insaf,33243,NA-43,Tribal Area - IV
 Shermat Khan,Independent,10332,NA-43,Tribal Area - IV
 Sardar Azam,Pakistan Muslim League (N),137,NA-43,Tribal Area - IV
 Abdur Raziq Shinwari,Independent,24,NA-43,Tribal Area - IV
@@ -465,7 +476,6 @@ Nawabzada Muhammad Shah,Independent,36,NA-43,Tribal Area - IV
 Abdul Nawaz,Independent,64,NA-43,Tribal Area - IV
 Saida Jan,Awami National Party,346,NA-43,Tribal Area - IV
 Daulat Shah,Pakistan Justice & Democratic Party,292,NA-43,Tribal Area - IV
-Noor Ul Haq AlQadri,Pakistan Tehreek-e-Insaniat,33243,NA-43,Tribal Area - IV
 Mohib Ullah,Independent,1332,NA-43,Tribal Area - IV
 Saidgha Jan,Independent,99,NA-43,Tribal Area - IV
 Attiq Ullah,Jamiat Ulama-e-Islam Pakistan (S),391,NA-43,Tribal Area - IV
@@ -1558,7 +1568,7 @@ Aurangzeb Shaafi Burki,Pakistan Peoples Party Parliamentarians,3202,NA-126,Lahor
 Ch Muhammad Ashraff,All Pakistan Muslim League,384,NA-126,Lahore-IV
 Mehr Ishtiaq Ahmad Anwar,Pakistan Muslim League (N),102677,NA-126,Lahore-IV
 Muhammad Hammad Azhar,Pakistan Tehreek-e-Insaf,105734,NA-126,Lahore-IV
-Waqas Ahmed,Tehreek-e-Labbaik Pakistan,1638,NA-126,Lahore-IV
+Waqas Ahmed,Tehreek-e-Labbaik Pakistan,16368,NA-126,Lahore-IV
 MUHAMMAD AHMAD,Independent,261,NA-127,Lahore-V
 MUSARRAT JAMSHED,Independent,133,NA-127,Lahore-V
 CH MUHAMMAD ILYAS,All Pakistan Muslim League,273,NA-127,Lahore-V
@@ -1594,7 +1604,7 @@ Muhammad tajammal hussain,Independent,91,NA-129,Lahore-VII
 Iftikhar Shahid,Pakistan Peoples Party Parliamentarians,2569,NA-129,Lahore-VII
 Humayun Akhtar Khan,Independent,98,NA-129,Lahore-VII
 Amjad Masood,Independent,541,NA-130,Lahore-VIII
-Hafeez Ur Rehman,Tehreek-e-Labbaik Islam,10755,NA-130,Lahore-VIII
+Hafeez Ur Rehman,Tehreek-e-Labbaik Pakistan,10755,NA-130,Lahore-VIII
 Haroon Khawaja,Pakistan Freedom Movement,220,NA-130,Lahore-VIII
 Khawaja Ahmad Hasan,Pakistan Muslim League (N),104625,NA-130,Lahore-VIII
 Liaqat Baloch,Muttahida Majlis-e-Amal Pakistan,5176,NA-130,Lahore-VIII
@@ -1882,7 +1892,7 @@ AHMAD HUSSAIN,Pakistan Tehreek-e-Insaf,74220,NA-154,Multan-I
 ANEELA IFTIKHAR,All Pakistan Muslim League,614,NA-154,Multan-I
 IRAM GULL,Muttahida Majlis-e-Amal Pakistan,1103,NA-154,Multan-I
 MAKHDOOM SYED MUHAMMAD SHER ALI SHAH,Independent,1855,NA-154,Multan-I
-MALIK AZHAR AHMAD SANDILA,Pakistan Tehreek-e-Insaf,7660,NA-154,Multan-I
+MALIK AZHAR AHMAD SANDILA,Tehreek-e-Labbaik Pakistan,7660,NA-154,Multan-I
 MALIK NOOR HUSSAIN DEHAR,Independent,472,NA-154,Multan-I
 MIAN MUHAMMAD SULEMAN ALI QURESHI,Pakistan Muslim League (N),20977,NA-154,Multan-I
 MUHAMMAD TALAL ZOHAIB,Pakistan Siraiki Party (T),1815,NA-154,Multan-I
@@ -1952,21 +1962,21 @@ LIAQAT ALI KHAN,Pakistan Peoples Party Parliamentarians,15171,NA-160,Lodhran-I
 MUHAMMAD AKHTAR KHAN KANJU,Pakistan Tehreek-e-Insaf,115321,NA-160,Lodhran-I
 NAWAB AMANULLAH KHAN,Independent,987,NA-160,Lodhran-I
 RANA MOIN FAREED NOON,Tehreek-e-Labbaik Pakistan,10316,NA-160,Lodhran-I
-MUHAMMAD AKRAM QASIR,Tehreek-e-Labbaik Pakistan,4453,NA-161,Lodhran-II
+IFFAT TAHIRA,Allah-o-Akbar Tehreek,965,NA-161,Lodhran-II
 Ayesha Gulalai Wazir,Pakistan Tehreek-e-Insaf-Gulalai,1614,NA-161,Lodhran-II
 MUHAMMAD AMIR IQBAL SHAH,Independent,174,NA-161,Lodhran-II
+MIAN MUHAMMAD SHAFIQ,Pakistan Tehreek-e-Insaf,121809,NA-161,Lodhran-II
 ZIA UR REHMAN TAMIMI,Muttahida Majlis-e-Amal Pakistan,808,NA-161,Lodhran-II
+MUHAMMAD UMAIR BALOOCH,Independent,131,NA-161,Lodhran-II
 SYED IMRAN RAZA GILANI,Independent,3436,NA-161,Lodhran-II
-MIAN MUHAMMAD SHAFIQ,Pakistan Tehreek-e-Insaf,121300,NA-161,Lodhran-II
-MUHAMMAD MUSHTAQ MALIK,Pakistan Aman Tehreek.,1734,NA-161,Lodhran-II
 SALEEM ABBAS,Saraiskistan Democratic Party,717,NA-161,Lodhran-II
-MUHAMMAD UMAIR BALOOCH,Independent,133,NA-161,Lodhran-II
+MIAN SAJID,Independent,5773,NA-161,Lodhran-II
 KHAN MUHAMMAD SIDDIQUE KHAN BALOOCH,Pakistan Muslim League (N),116093,NA-161,Lodhran-II
-IFFAT TAHIRA,Allah-o-Akbar Tehreek,952,NA-161,Lodhran-II
+WASEEM AHMAD,Independent,164,NA-161,Lodhran-II
+MUHAMMAD IQBAL SHAH,Independent,192,NA-161,Lodhran-II
+MUHAMMAD AKRAM QASIR,Tehreek-e-Labbaik Pakistan,4459,NA-161,Lodhran-II
+MUHAMMAD MUSHTAQ MALIK,Pakistan Aman Tehreek.,1712,NA-161,Lodhran-II
 SYED MUHAMMAD AZHAR SHAH,Independent,801,NA-161,Lodhran-II
-WASEEM AHMAD,Independent,177,NA-161,Lodhran-II
-MIAN SAJID,Independent,6258,NA-161,Lodhran-II
-MUHAMMAD IQBAL SHAH,Independent,198,NA-161,Lodhran-II
 Shagufta Chaudhry,Independent,323,NA-162,Vehari-I
 Irshad Ahmed,Independent,9241,NA-162,Vehari-I
 Shaheen Iqbal,Muttahida Majlis-e-Amal Pakistan,1697,NA-162,Vehari-I
@@ -2334,9 +2344,9 @@ Raj Kumar,Independent,200,NA-197,Kashmore
 Shamsher Ali Mazari,Muttahida Majlis-e-Amal Pakistan,47326,NA-197,Kashmore
 Umed Ali,Independent,178,NA-197,Kashmore
 Mir Irfan Ali Khan Bijarani,Independent,336,NA-197,Kashmore
-Khadim Hussain,Independent,294,NA-197,Kashmore
 Abdul Azziz Samejo,Independent,2484,NA-197,Kashmore
 Ehsan ur Rehman Mazari,Pakistan Peoples Party Parliamentarians,84742,NA-197,Kashmore
+Khadim Hussain,Independent,254,NA-197,Kashmore
 Mir Ghalib Hussain Khan,Independent,610,NA-197,Kashmore
 Zulfiqar Ali Khan,Independent,267,NA-197,Kashmore
 Mir Salman Khan Bijarani,Independent,3314,NA-197,Kashmore
@@ -2595,20 +2605,20 @@ Quratulain Marri,Independent,806,NA-216,Sanghar-II
 Saeed Ahmed,Muttahida Majlis-e-Amal Pakistan,922,NA-216,Sanghar-II
 Shazia Jant Marri,Pakistan Peoples Party Parliamentarians,80752,NA-216,Sanghar-II
 Yasir Ali,Independent,525,NA-216,Sanghar-II
+Niaz Hussain,Independent,110,NA-217,Sanghar-III
 Muhammad Shakeel,Muttahida Qaumi Movement Pakistan,974,NA-217,Sanghar-III
 Zafar Ali,Independent,665,NA-217,Sanghar-III
-Mehar Ali Alias Mahi Khan,Grand Democratic Alliance,43757,NA-217,Sanghar-III
 Ghulam Mujtaba Soomro,Independent,413,NA-217,Sanghar-III
+Roshanuddin Junejo,Pakistan Peoples Party Parliamentarians,103221,NA-217,Sanghar-III
 Muhammad Saleem,Pasban Pakistan.,631,NA-217,Sanghar-III
 Muhammad Mubeen,Jamiat Ulama-e-Pakistan  (Noorani),543,NA-217,Sanghar-III
-Akbar Hussain Chughtai,Muttahida Majlis-e-Amal Pakistan,7552,NA-217,Sanghar-III
-Roshanuddin Junejo,Pakistan Peoples Party Parliamentarians,102361,NA-217,Sanghar-III
 Shakeel Ahmed Urf Karimdad,Independent,245,NA-217,Sanghar-III
 Paras Dero,Independent,493,NA-217,Sanghar-III
 Abdul Aziz Thahim,Sindh United Party,151,NA-217,Sanghar-III
 Salahuddin Junejo,Independent,123,NA-217,Sanghar-III
 Ghayas Uddin,Independent,60,NA-217,Sanghar-III
-Niaz Hussain,Independent,0,NA-217,Sanghar-III
+Mehar Ali Alias Mahi Khan,Grand Democratic Alliance,43760,NA-217,Sanghar-III
+Akbar Hussain Chughtai,Muttahida Majlis-e-Amal Pakistan,7558,NA-217,Sanghar-III
 Ali Nawaz Shah,Independent,75795,NA-218,Mirpurkhas-I
 Roop Chand,Independent,105,NA-218,Mirpurkhas-I
 Syed Mumtaz Ali Shah,Pakistan Tehreek-e-Insaf,8836,NA-218,Mirpurkhas-I
@@ -3157,6 +3167,37 @@ Sikandar Hayat Khan Jogezai,Independent,441,NA-258,Loralai-cum-Musa Khail-cum-Zi
 Syed Alam Shah,Independent,476,NA-258,Loralai-cum-Musa Khail-cum-Ziarat-cum-Dukki-cum-Harnai
 Syed Qurban Ali Gharsheen,Pakistan Tehreek-e-Insaf,16738,NA-258,Loralai-cum-Musa Khail-cum-Ziarat-cum-Dukki-cum-Harnai
 Wali Dad,Pak Sarzameen Party,949,NA-258,Loralai-cum-Musa Khail-cum-Ziarat-cum-Dukki-cum-Harnai
+Abdul Ghaffar,Balochistan National Party,3016,NA-259,Dera Bugti-cum-Kohlu-cum-Barkhan-cum-Sibi-cum-Lehri
+Abdul Hayee Baloch,Balochistan National Movement,2318,NA-259,Dera Bugti-cum-Kohlu-cum-Barkhan-cum-Sibi-cum-Lehri
+Ahmed Jan,Independent,88,NA-259,Dera Bugti-cum-Kohlu-cum-Barkhan-cum-Sibi-cum-Lehri
+Allah Dad,Awami National Party,141,NA-259,Dera Bugti-cum-Kohlu-cum-Barkhan-cum-Sibi-cum-Lehri
+Attaullah,Independent,2840,NA-259,Dera Bugti-cum-Kohlu-cum-Barkhan-cum-Sibi-cum-Lehri
+Babar Marghzani,Pakistan Tehreek-e-Insaf,5422,NA-259,Dera Bugti-cum-Kohlu-cum-Barkhan-cum-Sibi-cum-Lehri
+Faqeer Muhammad,Independent,161,NA-259,Dera Bugti-cum-Kohlu-cum-Barkhan-cum-Sibi-cum-Lehri
+Faqeerullah Jan,Tehreek-e-Labbaik Islam,2090,NA-259,Dera Bugti-cum-Kohlu-cum-Barkhan-cum-Sibi-cum-Lehri
+Hasnain Iqbal Minhas,Pakistan Justice & Democratic Party,359,NA-259,Dera Bugti-cum-Kohlu-cum-Barkhan-cum-Sibi-cum-Lehri
+Jalamb Khan Bugti,Independent,5527,NA-259,Dera Bugti-cum-Kohlu-cum-Barkhan-cum-Sibi-cum-Lehri
+Khan Muhammad,Independent,320,NA-259,Dera Bugti-cum-Kohlu-cum-Barkhan-cum-Sibi-cum-Lehri
+Kohdayar Marri,Independent,97,NA-259,Dera Bugti-cum-Kohlu-cum-Barkhan-cum-Sibi-cum-Lehri
+Mehrab Khan,National Party,1868,NA-259,Dera Bugti-cum-Kohlu-cum-Barkhan-cum-Sibi-cum-Lehri
+Mian Khan,Independent,16300,NA-259,Dera Bugti-cum-Kohlu-cum-Barkhan-cum-Sibi-cum-Lehri
+Mir Baz Muhammad,Muttahida Majlis-e-Amal Pakistan,6113,NA-259,Dera Bugti-cum-Kohlu-cum-Barkhan-cum-Sibi-cum-Lehri
+Mir Dostain Khan Domki,Balochistan Awami Party,11930,NA-259,Dera Bugti-cum-Kohlu-cum-Barkhan-cum-Sibi-cum-Lehri
+Mir Hair Bayar Khan Domki,Independent,12808,NA-259,Dera Bugti-cum-Kohlu-cum-Barkhan-cum-Sibi-cum-Lehri
+Mir Ibrar Khan Khetran,Pak Sarzameen Party,141,NA-259,Dera Bugti-cum-Kohlu-cum-Barkhan-cum-Sibi-cum-Lehri
+Mir Liaqat Ali Khan,Independent,5243,NA-259,Dera Bugti-cum-Kohlu-cum-Barkhan-cum-Sibi-cum-Lehri
+Mir Muhammad Khan,Balochistan National Party (Awami),307,NA-259,Dera Bugti-cum-Kohlu-cum-Barkhan-cum-Sibi-cum-Lehri
+Mir Shah Nawaz Khan Marri,Independent,255,NA-259,Dera Bugti-cum-Kohlu-cum-Barkhan-cum-Sibi-cum-Lehri
+Mir Tariq Mehmood Kethran,Independent,21213,NA-259,Dera Bugti-cum-Kohlu-cum-Barkhan-cum-Sibi-cum-Lehri
+Muhammad Saddique,Tehreek-e-Labbaik Pakistan,2879,NA-259,Dera Bugti-cum-Kohlu-cum-Barkhan-cum-Sibi-cum-Lehri
+Nawab Muhammad Mir Ali Bugti,Independent,583,NA-259,Dera Bugti-cum-Kohlu-cum-Barkhan-cum-Sibi-cum-Lehri
+nawabzada Ghazain Khan Marri,Independent,215,NA-259,Dera Bugti-cum-Kohlu-cum-Barkhan-cum-Sibi-cum-Lehri
+Nawabzada Shahzain Bugtti,Jamhoori Wattan Party,22787,NA-259,Dera Bugti-cum-Kohlu-cum-Barkhan-cum-Sibi-cum-Lehri
+Noor Ahmed Shah,Pashtoonkhwa Milli Awami Party,2575,NA-259,Dera Bugti-cum-Kohlu-cum-Barkhan-cum-Sibi-cum-Lehri
+Sardar Mir Baz Muhammad Khan Khetran,Pakistan Peoples Party Parliamentarians,17578,NA-259,Dera Bugti-cum-Kohlu-cum-Barkhan-cum-Sibi-cum-Lehri
+Shahzadi,Independent,967,NA-259,Dera Bugti-cum-Kohlu-cum-Barkhan-cum-Sibi-cum-Lehri
+Sheraz Ali,Independent,336,NA-259,Dera Bugti-cum-Kohlu-cum-Barkhan-cum-Sibi-cum-Lehri
+Syed Abdul Hayee Shah Rashdi,Independent,1164,NA-259,Dera Bugti-cum-Kohlu-cum-Barkhan-cum-Sibi-cum-Lehri
 Abdul Majid,Jamote Qaumi Movement,3238,NA-260,Nasirabad-cum-Kachhi-cum-Jhal Magsi
 Abdul Sattar,Independent,355,NA-260,Nasirabad-cum-Kachhi-cum-Jhal Magsi
 Ali Hassan,National Party,417,NA-260,Nasirabad-cum-Kachhi-cum-Jhal Magsi
@@ -3208,6 +3249,25 @@ Muhammad Essa Khan,Pashtoonkhwa Milli Awami Party,28344,NA-262,Pishin
 Nizam Uddin,Independent,143,NA-262,Pishin
 Aemal Khan,Independent,69,NA-262,Pishin
 Abdullah Khan,Independent,182,NA-262,Pishin
+Abdul Hadi,Pakistan Muslim League,192,NA-263,Killa Abdullah
+Abdul Samad,All Pakistan Tehreek,155,NA-263,Killa Abdullah
+Abdul Wali,Pakistan Muslim League (N),280,NA-263,Killa Abdullah
+Ahmed khan,Independent,221,NA-263,Killa Abdullah
+Amanullah,Independent,38,NA-263,Killa Abdullah
+Asghar Khan,Awami National Party,21417,NA-263,Killa Abdullah
+Attaullah Khan,Independent,215,NA-263,Killa Abdullah
+Bismillah Khan Kakar,Pakistan Peoples Party Parliamentarians,993,NA-263,Killa Abdullah
+Haji Behram Khan Achakzai,Independent,161,NA-263,Killa Abdullah
+Imdadullah,Independent,289,NA-263,Killa Abdullah
+Mehmood Khan Achakzai,Pashtoonkhwa Milli Awami Party,19989,NA-263,Killa Abdullah
+Muhamamd Tahir,Independent,47,NA-263,Killa Abdullah
+Muhammad Kazim Khan,Independent,1279,NA-263,Killa Abdullah
+Muhammad Sadiq,Balochistan Awami Party,3990,NA-263,Killa Abdullah
+Muhammad Umar Khan,Independent,1223,NA-263,Killa Abdullah
+nasebullah,Pakistan Tehreek-e-Insaf,2731,NA-263,Killa Abdullah
+Nazuddin,Jamiat Ulma-e-Islam Nazryati Pakistan,686,NA-263,Killa Abdullah
+Salahuddin,Muttahida Majlis-e-Amal Pakistan,37971,NA-263,Killa Abdullah
+Syed Mussawir Shah,Independent,155,NA-263,Killa Abdullah
 Abdul Qadir Luni,Jamiat Ulma-e-Islam Nazryati Pakistan,2070,NA-264,Quetta-I
 Abdul Qahir,Jamiat Ulama-e-Islam Pakistan (S),159,NA-264,Quetta-I
 Abdul Rehman,Pashtoonkhwa Milli Awami Party,8980,NA-264,Quetta-I
@@ -3288,28 +3348,28 @@ Sardar Noor Ahmed,Balochistan Awami Party,20322,NA-267,Mastung-cum-Shaheed Sikan
 Sardar Salah Uddin Muhammad Hassani,National Peace Council Party,241,NA-267,Mastung-cum-Shaheed Sikandarabad-cum-Kalat
 Sardar Sanaullah Zehri,Pakistan Muslim League (N),7132,NA-267,Mastung-cum-Shaheed Sikandarabad-cum-Kalat
 Taj Muhammad,Independent,928,NA-267,Mastung-cum-Shaheed Sikandarabad-cum-Kalat
-Abdul Qadir,Pakistan Muslim League (N),265,NA-268,Chagai-cum-Nushki-cum-Kharan
-Abdul Rehman,Independent,1,NA-268,Chagai-cum-Nushki-cum-Kharan
-Abdul Waheed,Independent,5,NA-268,Chagai-cum-Nushki-cum-Kharan
-Ali Ahmed,Independent,2,NA-268,Chagai-cum-Nushki-cum-Kharan
-Ghulam Farooq,National Party,6,NA-268,Chagai-cum-Nushki-cum-Kharan
-Haji Muhammad Usman,Independent,72,NA-268,Chagai-cum-Nushki-cum-Kharan
-Manzoor Ahmed,Balochistan National Party (Awami),1,NA-268,Chagai-cum-Nushki-cum-Kharan
-Mir Noor Ud Din Nosherwani,Independent,1,NA-268,Chagai-cum-Nushki-cum-Kharan
-Mir Rehmat Ullah Khan Notezai,Independent,0,NA-268,Chagai-cum-Nushki-cum-Kharan
-Muhammad Arif,Allah-o-Akbar Tehreek,7,NA-268,Chagai-cum-Nushki-cum-Kharan
-Muhammad Hashim,Balochistan National Party,1137,NA-268,Chagai-cum-Nushki-cum-Kharan
-Muhammad Jan,Jamiat Ulma-e-Islam Nazryati Pakistan,11,NA-268,Chagai-cum-Nushki-cum-Kharan
-Muhammad Qasim,Pakistan Rah-e-Haq Party,4,NA-268,Chagai-cum-Nushki-cum-Kharan
-Muhammad Usman Badini,Muttahida Majlis-e-Amal Pakistan,1210,NA-268,Chagai-cum-Nushki-cum-Kharan
-Nazir Ahmed,Independent,5,NA-268,Chagai-cum-Nushki-cum-Kharan
-Saddam Hussain,Tehreek-e-Labbaik Islam,3,NA-268,Chagai-cum-Nushki-cum-Kharan
-Sardar Alhaj Muhammad Umer Gorgage,Pakistan Peoples Party Parliamentarians,453,NA-268,Chagai-cum-Nushki-cum-Kharan
-Sardar Aurangzaib,Pakistan Tehreek-e-Insaf,184,NA-268,Chagai-cum-Nushki-cum-Kharan
-Sardar Fateh Muhamamd Muhammad Hassani,Independent,603,NA-268,Chagai-cum-Nushki-cum-Kharan
-Sardar Muhammad Hussain,Independent,1,NA-268,Chagai-cum-Nushki-cum-Kharan
-Shah Wali Ullah,Independent,0,NA-268,Chagai-cum-Nushki-cum-Kharan
-Wazir Khan Mengal,Independent,2,NA-268,Chagai-cum-Nushki-cum-Kharan
+Abdul Qadir,Pakistan Muslim League (N),2396,NA-268,Chagai-cum-Nushki-cum-Kharan
+Abdul Rehman,Independent,17,NA-268,Chagai-cum-Nushki-cum-Kharan
+Abdul Waheed,Independent,152,NA-268,Chagai-cum-Nushki-cum-Kharan
+Ali Ahmed,Independent,62,NA-268,Chagai-cum-Nushki-cum-Kharan
+Ghulam Farooq,National Party,98,NA-268,Chagai-cum-Nushki-cum-Kharan
+Haji Muhammad Usman,Independent,623,NA-268,Chagai-cum-Nushki-cum-Kharan
+Manzoor Ahmed,Balochistan National Party (Awami),61,NA-268,Chagai-cum-Nushki-cum-Kharan
+Mir Noor Ud Din Nosherwani,Independent,6,NA-268,Chagai-cum-Nushki-cum-Kharan
+Mir Rehmat Ullah Khan Notezai,Independent,11,NA-268,Chagai-cum-Nushki-cum-Kharan
+Muhammad Arif,Allah-o-Akbar Tehreek,140,NA-268,Chagai-cum-Nushki-cum-Kharan
+Muhammad Hashim,Balochistan National Party,14435,NA-268,Chagai-cum-Nushki-cum-Kharan
+Muhammad Jan,Jamiat Ulma-e-Islam Nazryati Pakistan,208,NA-268,Chagai-cum-Nushki-cum-Kharan
+Muhammad Qasim,Pakistan Rah-e-Haq Party,34,NA-268,Chagai-cum-Nushki-cum-Kharan
+Muhammad Usman Badini,Muttahida Majlis-e-Amal Pakistan,12272,NA-268,Chagai-cum-Nushki-cum-Kharan
+Nazir Ahmed,Independent,36,NA-268,Chagai-cum-Nushki-cum-Kharan
+Saddam Hussain,Tehreek-e-Labbaik Islam,32,NA-268,Chagai-cum-Nushki-cum-Kharan
+Sardar Alhaj Muhammad Umer Gorgage,Pakistan Peoples Party Parliamentarians,6972,NA-268,Chagai-cum-Nushki-cum-Kharan
+Sardar Aurangzaib,Pakistan Tehreek-e-Insaf,1540,NA-268,Chagai-cum-Nushki-cum-Kharan
+Sardar Fateh Muhamamd Muhammad Hassani,Independent,7093,NA-268,Chagai-cum-Nushki-cum-Kharan
+Sardar Muhammad Hussain,Independent,18,NA-268,Chagai-cum-Nushki-cum-Kharan
+Shah Wali Ullah,Independent,27,NA-268,Chagai-cum-Nushki-cum-Kharan
+Wazir Khan Mengal,Independent,37,NA-268,Chagai-cum-Nushki-cum-Kharan
 Shafiq U Rehman,Pakistan Tehreek-e-Insaf,833,NA-269,Khuzdar
 Muhammad Akhtar Mengal,Balochistan National Party,52875,NA-269,Khuzdar
 MirShafiq U Rehman Mengal,Independent,14559,NA-269,Khuzdar
@@ -3323,6 +3383,22 @@ Abdul Sattar,Balochistan National Movement,438,NA-269,Khuzdar
 Wazir Ahmed Norani,Tehreek-e-Labbaik Pakistan,2494,NA-269,Khuzdar
 Mohammad Khalid Bizenjo,Balochistan Awami Party,19720,NA-269,Khuzdar
 Sardar Sana Ullah Zahri,Independent,619,NA-269,Khuzdar
+Abdul Kareem Nosherwanil,Independent,200,NA-270,Panjgur-cum-Washuk-cum-Awaran
+Abdul Qadir,Pakistan Muslim League (N),10822,NA-270,Panjgur-cum-Washuk-cum-Awaran
+Abdul Wadood,Allah-o-Akbar Tehreek,236,NA-270,Panjgur-cum-Washuk-cum-Awaran
+Attaullah Baloch,Muttahida Majlis-e-Amal Pakistan,15912,NA-270,Panjgur-cum-Washuk-cum-Awaran
+Ehsanullah Reki,Balochistan Awami Party,18568,NA-270,Panjgur-cum-Washuk-cum-Awaran
+Ghulam Jan,Independent,459,NA-270,Panjgur-cum-Washuk-cum-Awaran
+Haider Ali,Independent,317,NA-270,Panjgur-cum-Washuk-cum-Awaran
+Meer Ahmed Nawaz Mohammad Hassni,Independent,3089,NA-270,Panjgur-cum-Washuk-cum-Awaran
+Meer Nazeer Ahmed Baloch,Balochistan National Party,12188,NA-270,Panjgur-cum-Washuk-cum-Awaran
+Mohammad Hanif,Balochistan National Party (Awami),16040,NA-270,Panjgur-cum-Washuk-cum-Awaran
+Mohammad Ibrahim,Tehreek-e-Labbaik Pakistan,534,NA-270,Panjgur-cum-Washuk-cum-Awaran
+Muhammad Akram,Pak Sarzameen Party,844,NA-270,Panjgur-cum-Washuk-cum-Awaran
+Phullen,National Party,4062,NA-270,Panjgur-cum-Washuk-cum-Awaran
+Sabir Ali Baloch,Pakistan Peoples Party Parliamentarians,780,NA-270,Panjgur-cum-Washuk-cum-Awaran
+Sardar Attaullah  Dehani,Independent,556,NA-270,Panjgur-cum-Washuk-cum-Awaran
+Shehbaz Khan,Independent,3037,NA-270,Panjgur-cum-Washuk-cum-Awaran
 Shay Brakat Ali,Independent,61,NA-271,Kech
 Hotman,Independent,5285,NA-271,Kech
 Syed Ahsan Shah,Balochistan National Party (Awami),20583,NA-271,Kech
