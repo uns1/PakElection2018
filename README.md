@@ -4,8 +4,8 @@
 ## Data Files:
 
 - Data for Pakistan's 2018 Elections for the National Assembly. *(Provincial Assembly data coming soon)*  
-- Compiled/Scraped on 7/27/18 from the Election Commission of Pakistan's website. 
-- Data for 266/272 NA Seats. Missing seats due to postponed elections or unavailability of data on the ECP website as of 7/27/18.
+- Compiled/Scraped on 7/29/18 from the Election Commission of Pakistan's website. 
+- Data for 270/272 NA Seats. Missing seats due to postponed elections.
 
 | File | Description |
 |--------|-------------|
