@@ -14,6 +14,8 @@
 | Election_2018_NA_winnerResults.csv | The winning candidates, their parties and votes for NA seats. Provided for ease of use if you just want to look at the winners |
 | Election_2018_NA_runnerupResults.csv | The runner ups, their parties and votes for NA seats. Provided for ease of use if you just want to look at those that came second |
 
+***
+
 ### File Description & Metadata
 
 #### 1. Election_2018_NA_Results_Raw.csv
@@ -33,6 +35,9 @@ Example URL scraped: https://www.ecp.gov.pk/ConstResult.aspx?Const_Id=NA-1&type=
 | validVotes | Number of valid votes |
 | votesPolled | Total number of votes polled |
 | votingResults | This is a list of dictionaries containing candidate info, party, and number of votes |
+| femaleTurnout | Female turnout %age |
+| maleTurnout | Male turnout %age |
+| totalTurnout | Total turnout %age |
 
 #### 2. Election_2018_NA_VotingOnly.csv
 If you just want the candidate names, party, and votes for each constituency, use this file instead.
