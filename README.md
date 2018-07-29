@@ -49,4 +49,11 @@ Essentially, this is the votingResults column of the file above broken down.
 
 ***
 
-Data scraped from the web isn't always perfect. If you find any discrepancies, please let me know @ uns5@rutgers.edu
+- Data scraped from the web isn't always perfect. If you find any discrepancies, please let me know @ uns5@rutgers.edu
+
+***
+
+## TODO
+- Update with complete data when made available on the ECP website.
+- Scrape PA data.
+- Upload Exploratory Analysis.
