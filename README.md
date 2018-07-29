@@ -56,4 +56,6 @@ Essentially, this is the votingResults column of the file above broken down.
 ## TODO
 - Update with complete data when made available on the ECP website.
 - Scrape PA data.
+- Add Integrity Checks/Tests.
 - Upload Exploratory Analysis.
+
