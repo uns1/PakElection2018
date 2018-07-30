@@ -21,7 +21,7 @@
 
 ### File Description & Metadata
 
-#### Election_2018_NA_Results_Raw.csv
+#### - Election_2018_NA_Results_Raw.csv
 Contain's all information found on the individual constituency result for National Assembly seats.
 Example URL scraped: https://www.ecp.gov.pk/ConstResult.aspx?Const_Id=NA-1&type=NA&Election_ID=10070&Election=GENERAL%20ELECTION%2025%20JUL%202018
 
@@ -61,7 +61,7 @@ Example URL scraped: https://www.ecp.gov.pk/ConstResult.aspx?Const_Id=NA-1&type=
 | thirdParty | Party of the third placed candidate |
 | thirdVotes | Votes recieved by the third placed candidate |
 
-#### Election_2018_NA_VotingOnly.csv
+#### - Election_2018_NA_VotingOnly.csv
 If you just want the candidate names, party, and votes for each constituency, use this file instead.
 Essentially, this is the votingResults column of the file above broken down.
 
@@ -73,7 +73,7 @@ Essentially, this is the votingResults column of the file above broken down.
 | seat | Constituency e.g. NA-1 |
 | seatName | Constituency Name |
 
-#### Election_2018_NA_winnerResults.csv, Election_2018_NA_secondResults.csv, Election_2018_NA_thirdResults.csv
+#### - Election_2018_NA_winnerResults.csv, Election_2018_NA_secondResults.csv, Election_2018_NA_thirdResults.csv
 These files contain the same columns as Election_2018_NA_VotingOnly.csv.
 
 ***
