@@ -48,6 +48,7 @@ Example URL scraped: https://www.ecp.gov.pk/ConstResult.aspx?Const_Id=NA-1&type=
 | MeanYearsOfSchooling2015 | Average number of years of education received by people ages 25 and older, calculated from education attainment levels using official durations of each level. | 
 | LivingStd2015 | A composite index based on six household indicators related to access and quality of public services, household infrastructure and assets’ ownership. |
 | HDIValue2013 | Human Development Index value in 2013 of the HDIRegion of the seat |
+| HDIChangeInRank | Change in HDI ranking from 2013 to 2015 |
 | firstName | Winner's name |
 | firstParty | Party of the winner |
 | firstVotes | Votes recieved by the winner |
