@@ -1,0 +1,109 @@
+Region,Province,HDIValue2015,ImmunisationRate2015,SatisfactionWithHealth2015,ExpYearsOfSchooling2015,MeanYearsOfSchooling2015,LivingStd2015,HDIValue2013,ChangeInRank
+Lahore,Punjab,0.877,89.5,85.8,12.2,7.5,98.9,0.858,2
+Islamabad,Islamabad Capital Territory,0.875,85.2,77.7,12.6,8.2,99.1,0.891,-1
+Rawalpindi,Punjab,0.871,92.4,84.5,12.7,7.4,94,0.826,1
+Karachi,Sindh,0.854,80.2,82.5,11.8,7.7,98.5,0.867,-2
+Sialkot,Punjab,0.834,93.7,80.6,12.3,5.9,94.6,0.77,5
+Jhelum,Punjab,0.829,98,73.2,12.8,6.1,90.6,0.811,-1
+Gujrat,Punjab,0.795,92.5,71.7,12.3,5.3,90.8,0.792,-1
+Chakwal,Punjab,0.792,96.2,81.5,11.9,4.9,87.2,0.788,-1
+Attock,Punjab,0.786,96.7,75.8,11.9,4.7,88.4,0.762,4
+Faisalabad,Punjab,0.782,88.2,84.5,10.8,5.2,89.4,0.775,-2
+Gujranwala,Punjab,0.769,90.9,65.8,11.5,5.2,90,0.774,-2
+Toba Tek Singh,Punjab,0.763,91.3,75.4,11.2,4.6,88.2,0.72,6
+Abbottabad,Khyber Pakhtunkhwa,0.761,94.3,70.7,12,4.8,83.7,0.768,-2
+Peshawar,Khyber Pakhtunkhwa,0.756,94.8,83.5,10.3,4.8,82.6,0.761,1
+Narowal,Punjab,0.748,98.6,64.5,11.6,4.6,83.5,0.706,4
+Nankana Sahib,Punjab,0.74,95.7,77.9,11.1,4.8,76.5,0.762,-4
+Sheikhupura,Punjab,0.738,86.4,75.2,10.8,4.3,86.1,0.76,-1
+Haripur,Khyber Pakhtunkhwa,0.732,82.1,60.2,11.9,4.8,86.6,0.702,2
+Layyah,Punjab,0.729,89.4,86.7,10.4,3.8,82.4,0.682,9
+Sargodha,Punjab,0.728,90.8,70.9,10.6,4.3,83.7,0.692,6
+Multan,Punjab,0.718,92.2,81.4,8.9,4.3,83.3,0.693,3
+Hyderabad,Sindh,0.716,84.5,73.6,8.5,5.4,84.5,0.762,-8
+Mandi Bahauddin,Punjab,0.716,91.6,73,11.4,3.9,77.5,0.738,-6
+Kasur,Punjab,0.714,86.3,74.4,10.9,3.7,82.7,0.695,-1
+Sahiwal,Punjab,0.71,91.1,62.3,10.2,4,86.2,0.691,2
+Khushab,Punjab,0.706,90.6,78.6,10.4,3.7,78.4,0.65,9
+Okara,Punjab,0.705,90.5,75.9,9.7,3.5,84.3,0.667,3
+Hafizabad,Punjab,0.705,96.7,69.7,10.5,3.7,78.6,0.693,-3
+Mardan,Khyber Pakhtunkhwa,0.703,90.4,87.9,10.4,3.3,76.8,0.647,7
+Khanewal,Punjab,0.699,95.1,81.1,9,3.6,80.4,0.651,4
+Nowshera,Khyber Pakhtunkhwa,0.697,84.4,80.4,10.3,3.2,81.6,0.696,-9
+Malakand,Khyber Pakhtunkhwa,0.69,94.8,59.7,11.7,3.7,73.6,0.64,5
+Jhang,Punjab,0.682,89.1,77.5,9.6,3.6,75.9,0.636,6
+Mansehra,Khyber Pakhtunkhwa,0.676,77.3,66,10.8,3.8,78.1,0.609,13
+Chitral,Khyber Pakhtunkhwa,0.674,97.8,64.1,11.1,3.6,69.1,0.637,3
+Charsadda,Khyber Pakhtunkhwa,0.666,98.5,80.4,9.7,2.9,70.5,0.635,4
+Naushehro Feroze,Sindh,0.665,70.7,69.7,9.8,5.1,72.2,0.594,11
+Quetta,Balochistan,0.664,64.6,53.8,10.2,4.2,89.7,0.702,-17
+Pakpattan,Punjab,0.66,93.9,69.2,9.1,2.9,78.2,0.629,5
+Sukkur,Sindh,0.659,79.6,73.5,8,4.8,73.5,0.622,5
+Lodhran,Punjab,0.659,94.8,79.7,8.2,3.1,76.9,0.629,2
+Chiniot,Punjab,0.657,90.4,82.4,9,3,72.4,0.677,-13
+Vehari,Punjab,0.655,92.5,79.2,8.8,2.8,75.7,0.661,-12
+Swabi,Khyber Pakhtunkhwa,0.654,87.1,63.9,10.4,2.7,76.9,0.657,-12
+Kohat,Khyber Pakhtunkhwa,0.65,83.5,79.2,9.9,3.3,68.1,0.56,12
+Bahawalpur,Punjab,0.645,83.5,86.4,7.7,3.1,77.5,0.629,-4
+Mianwali,Punjab,0.645,89.8,50.5,9.9,3.7,74.5,0.655,-14
+Dadu,Sindh,0.632,82.9,49,9.3,5,68.5,0.591,1
+Bahawalnagar,Punjab,0.63,78.7,71.9,8.8,3,75.5,0.635,-8
+Bhakkar,Punjab,0.628,86.8,49.2,9.5,3.2,76.6,0.587,1
+Rahimyar Khan,Punjab,0.625,83.4,85.3,7.2,2.9,75.2,0.585,1
+Swat,Khyber Pakhtunkhwa,0.618,88.8,70.9,9.6,2.8,64.3,0.551,7
+Larkana,Sindh,0.618,70.2,60.5,8.4,4.2,74,0.581,0
+Karak,Khyber Pakhtunkhwa,0.615,62.7,58.8,10.4,4.2,68.5,0.588,-4
+Bannu,Khyber Pakhtunkhwa,0.613,57.4,66.6,9.4,4,72.7,0.551,3
+Lower Dir,Khyber Pakhtunkhwa,0.6,84.1,58.7,10.9,2.8,59.8,0.549,4
+Hangu,Khyber Pakhtunkhwa,0.594,75.4,73.4,8.7,1.9,72.9,0.561,-1
+Muzaffargarh,Punjab,0.584,88.2,73.5,7.7,2.5,64.9,0.564,-4
+Lakki Marwat,Khyber Pakhtunkhwa,0.577,49.2,70.3,9.5,3.9,62.8,0.489,13
+Jamshoro,Sindh,0.572,81.7,55.7,8,3,65.8,0.529,4
+Nawabshah/ Shaheed Benazir Abad,Sindh,0.572,76.1,67.7,7.7,3.4,60.9,0.503,9
+Matiari,Sindh,0.569,86.6,75.6,7,3.6,54.7,0.562,-7
+Khairpur,Sindh,0.556,79.7,49.3,8.2,3.6,58.3,0.528,3
+Dera Ghazi Khan,Punjab,0.535,74.8,69.9,7.5,2.6,55.4,0.504,5
+Tando Allahyar,Sindh,0.528,84.8,69.5,6.2,2.8,54.8,0.526,2
+Buner,Khyber Pakhtunkhwa,0.528,78,83,8.9,1.5,49.4,0.543,-5
+Shikarpur,Sindh,0.52,64.5,75.9,6.2,3.2,54.8,0.529,-2
+Ghotki,Sindh,0.514,62,75.8,5.7,2.9,59.4,0.537,-6
+Rajanpur,Punjab,0.506,90.7,65.2,7.1,2,48.9,0.481,7
+Battagram,Khyber Pakhtunkhwa,0.505,51.1,56,7.9,1.8,68,0.532,-7
+Dera Ismail Khan,Khyber Pakhtunkhwa,0.496,64.5,56.2,7.6,3,50.1,0.489,2
+Sanghar,Sindh,0.491,65.2,61.9,6.7,3.2,48.9,0.524,-4
+Pishin,Balochistan,0.482,49.5,67.8,7.6,2.7,48.9,0.425,10
+Kashmore,Sindh,0.471,73.3,81.5,5.3,2.4,45.6,0.426,7
+Mastung,Balochistan,0.459,75.3,85,9.1,4,23.9,0.485,-1
+Tank,Khyber Pakhtunkhwa,0.459,66.1,70.1,7.8,2.8,35.4,0.449,2
+Kamber Shahdadkot,Sindh,0.456,61.8,62.2,6.2,2.3,47.5,0.483,-2
+Gawadar,Balochistan,0.443,51.4,74,10.6,2.7,28.2,0.442,1
+Noshki,Balochistan,0.441,52.7,63.5,8.2,2.3,37.9,0.395,7
+Sibi,Balochistan,0.441,60.9,38.3,6.6,3.5,43.7,0.618,-34
+Jacobabad,Sindh,0.44,65,68.5,5.9,2.5,39.5,0.494,-10
+Shangla,Khyber Pakhtunkhwa,0.438,48.7,47.4,6.7,1.7,56.5,0.411,3
+Mirpurkhas,Sindh,0.43,63.9,31.7,6.6,3.5,42,0.426,-1
+Killa Saifullah,Balochistan,0.422,50,100,6.6,2.5,29,0.194,23
+Lasbela,Balochistan,0.416,49.1,65.4,7.1,2.6,34.1,0.413,-1
+Khuzdar,Balochistan,0.412,60.5,90.3,8.3,2.6,22.7,0.361,3
+Badin,Sindh,0.412,73.1,60.2,5.8,2.9,31.1,0.33,10
+Kalat,Balochistan,0.405,83.5,89,9.1,3.1,16.9,0.343,7
+Loralai,Balochistan,0.381,44.5,99.9,8.7,2.9,17.6,0.361,1
+Thatta,Sindh,0.377,50.6,74.1,5.9,2.5,26.8,0.314,8
+Tando Muhammad Khan,Sindh,0.377,62.5,63.6,4.7,2.3,31.4,0.456,-14
+Upper Dir,Khyber Pakhtunkhwa,0.375,77.4,31.5,8.1,1.8,27.2,0.351,1
+Musakhail,Balochistan,0.368,38.3,97.9,9.1,2.6,16.8,0.125,18
+Jaffarabad,Balochistan,0.345,44.1,51.1,5.7,2,29.7,0.358,-3
+Bolan/Kachhi,Balochistan,0.345,59,62.8,6.4,2.6,19.5,0.332,1
+Sujawal,Sindh,0.326,47.7,61.3,5.4,2.4,21.2,,
+Umerkot,Sindh,0.322,67.1,18,6.3,2.3,24.4,0.39,-10
+Naseerabad,Balochistan,0.311,29.8,78.2,5.1,1.7,21.9,0.282,3
+Ziarat,Balochistan,0.301,33.2,67.3,7.4,2,15.6,0.437,-19
+Sherani,Balochistan,0.295,55.3,88.6,4.9,2.1,13.3,0.347,-7
+Dera Bugti,Balochistan,0.271,31.6,59,4.3,2.1,17.7,0.145,7
+Tor Ghar,Khyber Pakhtunkhwa,0.24,3,69.6,6.1,0.9,15.4,0.217,-1
+Barkhan,Balochistan,0.237,67.6,5.7,6.8,1.2,12.7,0.213,-2
+Tharparkar,Sindh,0.227,38.1,57,6.4,2.3,7.5,0.257,-6
+Washuk,Balochistan,0.188,48.8,71.9,4.8,1.4,4.8,0.101,2
+Jhal Magsi,Balochistan,0.183,43.9,32.9,5.5,1.7,6,0.286,-13
+Kech/Turbat,Balochistan,,,,,,,,
+Panjgur,Balochistan,,,,,,,,
