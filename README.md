@@ -12,14 +12,16 @@
 |--------|-------------|
 | Election_2018_NA_Results_Raw.csv | Contain's all information found on the individual constituency result for National Assembly seats. The candidate, party & number of votes is in a list of dictionaries. If you're just looking for that information, use Election_2018_NA_VotingOnly.csv  |
 | Election_2018_NA_VotingOnly.csv |  Candidate names, party, and votes for each constituency. Essentially, this is the votingResults column of the raw file broken down. |
-| Election_2018_NA_winnerResults.csv | The winning candidates, their parties and votes for NA seats. Provided for ease of use if you just want to look at the winners |
-| Election_2018_NA_runnerupResults.csv | The runner ups, their parties and votes for NA seats. Provided for ease of use if you just want to look at those that came second |
+| Election_2018_NA_winnerResults.csv | The winning candidates, their parties and votes for NA seats. Provided for ease of use if you just want to look at the winners. |
+| Election_2018_NA_runnerupResults.csv | Second placed candidates. Provided for ease of use if you just want to look at those that came second |
+| Election_2018_NA_thirdResults.csv | Third placed candidates, their parties and votes for NA seats. |
+| HDI2015.csv | Data from the 2015 Human Development Index for Pakistan. |
 
 ***
 
 ### File Description & Metadata
 
-#### 1. Election_2018_NA_Results_Raw.csv
+#### Election_2018_NA_Results_Raw.csv
 Contain's all information found on the individual constituency result for National Assembly seats.
 Example URL scraped: https://www.ecp.gov.pk/ConstResult.aspx?Const_Id=NA-1&type=NA&Election_ID=10070&Election=GENERAL%20ELECTION%2025%20JUL%202018
 
@@ -43,9 +45,9 @@ Example URL scraped: https://www.ecp.gov.pk/ConstResult.aspx?Const_Id=NA-1&type=
 | HDIProvince | The province that the HDIRegion corresponds to |
 | HDIValue2015 | The Human Development Index value (2015) for the HDIRegion |
 | ImmunisationRate2015 | Percentage of fully immunized children between the age of 12 and 23 months based on record and recall. |
-| SatisfactionWithHealth2015 | A household is regarded as deprived in ‘satisfaction with health facility’ if any of the household members did not use health care facility because it is costly, it does not suit, lacks tools or not enough facilities, or if any of the household member is not satisfied with the health facility. |
-| ExpYearsOfSchooling2015 | Number of years of schooling that a child of school entrance age can expect to receive if prevailing patterns of age-specific enrolment rates persist throughout the child’s life. |
-| MeanYearsOfSchooling2015 | Average number of years of education received by people ages 25 and older, calculated from education attainment levels using official durations of each level. | 
+| SatisfactionWithHealth2015 | Satisfaction with healthcare services on a househould level. Refer to HDI documentation. |
+| ExpYearsOfSchooling2015 | Number of years of schooling that a child of school entrance age can expect to receive |
+| MeanYearsOfSchooling2015 | Average number of years of education received by people ages 25 and older | 
 | LivingStd2015 | A composite index based on six household indicators related to access and quality of public services, household infrastructure and assets’ ownership. |
 | HDIValue2013 | Human Development Index value in 2013 of the HDIRegion of the seat |
 | HDIChangeInRank | Change in HDI ranking from 2013 to 2015 |
@@ -59,7 +61,7 @@ Example URL scraped: https://www.ecp.gov.pk/ConstResult.aspx?Const_Id=NA-1&type=
 | thirdParty | Party of the third placed candidate |
 | thirdVotes | Votes recieved by the third placed candidate |
 
-#### 2. Election_2018_NA_VotingOnly.csv
+#### Election_2018_NA_VotingOnly.csv
 If you just want the candidate names, party, and votes for each constituency, use this file instead.
 Essentially, this is the votingResults column of the file above broken down.
 
@@ -71,6 +73,8 @@ Essentially, this is the votingResults column of the file above broken down.
 | seat | Constituency e.g. NA-1 |
 | seatName | Constituency Name |
 
+#### Election_2018_NA_winnerResults.csv, Election_2018_NA_secondResults.csv, Election_2018_NA_thirdResults.csv
+These files contain the same columns as Election_2018_NA_VotingOnly.csv.
 
 ***
 
